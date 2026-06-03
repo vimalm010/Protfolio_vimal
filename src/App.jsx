@@ -6,7 +6,6 @@ import Background from "./components/Background";
 import CursorGlow from "./components/CursorGlow";
 import ScrollProgress from "./components/ScrollProgress";
 import Particles from "./components/Particles";
-import ThemeToggle from "./components/ThemeToggle";
 
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
@@ -46,7 +45,6 @@ function App() {
       <Particles />
       <CursorGlow />
       <ScrollProgress />
-      <ThemeToggle />
       <EnterParticles />
       <CanvasFavicon />
 
